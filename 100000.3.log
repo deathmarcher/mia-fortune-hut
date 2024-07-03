@@ -1,0 +1,39 @@
+Choose your Wish Reward from the following:
+1. Essence Stones x12
+2. 1h Construction Speedup x40
+3. 1h Training Speedup x40
+4. 1h General Speedup x40
+Enter the number of your choice: 
+Simulation 1: Strategy 1: Refresh on finding wish reward or refresh cost <= 4
++------------------------------+------------------+
+| Collected Reward             | Average Quantity |
++------------------------------+------------------+
+| Essence Stones               | 326.0            |
+| Fire Crystal                 | 130.0            |
+| Charm Design                 | 56.0             |
+| 1h Training Speedup          | 31.0             |
+| 1,000 Gems                   | 30.0             |
+| 100 Gems                     | 27.0             |
+| Multiplier                   | 27.0             |
+| 3h General Speedup           | 23.0             |
+| 1h Construction Speedup      | 18.0             |
+| 1h General Speedup           | 16.0             |
+| 1h Research Speedup          | 16.0             |
+| 100 Enhancement XP Component | 15.0             |
+| 50,000 Hero XP               | 10.0             |
+| 5m Construction Speedup      | 9.0              |
+| 8h General Speedup           | 8.0              |
+| 1M Iron                      | 7.0              |
+| 10,000 Hero XP               | 4.0              |
+| 1M Coal                      | 4.0              |
+| 100K Iron                    | 3.0              |
+| 5m Training Speedup          | 3.0              |
+| 5m Research Speedup          | 3.0              |
+| 100K Meat                    | 2.0              |
+| 100K Coal                    | 2.0              |
+| 1M Meat                      | 2.0              |
+| 100K Wood                    | 1.0              |
+| 1M Wood                      | 1.0              |
+| 5m General Speedup           | 0.0              |
++------------------------------+------------------+
+
